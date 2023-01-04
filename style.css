@@ -4,7 +4,8 @@ p{
     
 }
 h1{
-    border: 0px;
+   border: 10px;
+   border-color: chocolate;
 }
 h4{
     color: aqua;
